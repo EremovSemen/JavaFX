@@ -16,11 +16,5 @@ public class Controller {
 
     public void clickCheckButton(ActionEvent actionEvent) {
     }
-//    @FXML
-//    private Label welcomeText;
-//
-//    @FXML
-//    protected void onHelloButtonClick() {
-//        welcomeText.setText("Ты пидор");
-//    }
+
 }
